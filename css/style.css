@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  height: 100vh;
+}
+.container{
+  margin-top: 70px;
+  max-width: 600px;
+  height: 350px;
+  border: 1px solid #9C9C9C;
+  background-color: #333333;
+  padding: 20px;
+}
+#register-link {
+  margin-top: -85px;
+}
+.btn-success {
+  color: #fff;
+  background-color: #b8860b !important;
+  border-color: #b8860b !important;
+}
