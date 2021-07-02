@@ -28,4 +28,26 @@ Tally Note allow you to glance at your sales on the surface. The difference is 
 - Provide quick snapshots and charts on your store’s sales performance
 ## Inventory Management: ##
 Inventory management, one of Tally Note's most significant features, keeps track of all products so you know when it's time to order (or not order) specific items.
-
+### Tally Note should ideally be able to: ###
+- Scan and count products digitally
+- Manage your stock by creating product variations (size, color)
+- Identify pieces of inventory with a unique serial number
+- Track inventory levels across multiple locations
+- Enable seamless ordering such as automatically setting custom reorders of best-sellers
+- Consolidate purchases and orders in one order
+## Customer Management: ##
+Customers who have great ties with you are more likely to do business with you again. Customer relationship management (CRM) should be included in Tally Note to keep track of all customer information.
+### Tally Note should ideally be able to: ###
+- Attach a sale/transaction to a customer
+- Keep track of your customers’ purchase history
+- Capture customer information such as name, age, birthday, phone number and email address
+- Use email marketing to keep in touch with customers
+- Create a built-in loyalty program (more advanced systems will have this)
+## Employee Reporting and Management: ##
+Your employees' performance can make or break your store's success. Having the capacity to create sales goals, as well as knowing who your top performers are and who requires additional coaching, will aid in sales growth.
+### Tally Note should ideally be able to: ###
+- Add employees to your system
+- Create and modify schedules for employees based on forecasted activity
+- Email schedules to employees
+- Track employees’ weekly and over-time hours
+- Analyze who your top performers are
