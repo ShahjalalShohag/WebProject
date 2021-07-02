@@ -4,3 +4,5 @@ Having an efficient point of sale (POS) system can go a long way in making sure 
 
 ## What is Point of Sale System? ##
 A point of sale system, or POS, is the place where your customer makes a payment for products or services at your store. Simply put, every time a customer makes a purchase, they’re completing a point of sale transaction.
+
+In fact, according to a survey we conducted among retailers last fall (methodology below), nearly a quarter of the business leaders we polled (23%) prioritized their point of sale infrastructure (upgrading an existing system or investing in a new POS system) more during COVID-19, while the remaining 43% maintained their pre-pandemic level of prioritization. In other words, even in the event of a global pandemic, two-thirds of retail executives were unwilling or unable to deprioritize POS equipment.
