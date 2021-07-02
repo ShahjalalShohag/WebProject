@@ -20,5 +20,12 @@ So, we followed POS System in building Tally Note.
 - Inventory Management
 - Customer Management
 - Employee Reporting and Management
-- Choosing the best retail POS system
+
+## Sales Reporting: ##
+Tally Note allow you to glance at your sales on the surface. The difference is in the presentation of those figures, the simplicity with which data can be accessed, and the level of detail provided.
+### Tally Note should ideally be able to: ###
+- Generate detailed sales reports (based on product, hour, employee, total cost of items sold, total retail amount, net profit, profit percentage, gross margin)
+- Provide quick snapshots and charts on your store’s sales performance
+## Inventory Management: ##
+Inventory management, one of Tally Note's most significant features, keeps track of all products so you know when it's time to order (or not order) specific items.
 
