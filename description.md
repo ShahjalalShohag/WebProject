@@ -48,6 +48,4 @@ Your employees' performance can make or break your store's success. Having the c
 ### Tally Note should ideally be able to: ###
 - Add employees to your system
 - Create and modify schedules for employees based on forecasted activity
-- Email schedules to employees
 - Track employees’ weekly and over-time hours
-- Analyze who your top performers are
