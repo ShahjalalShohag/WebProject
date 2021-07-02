@@ -9,6 +9,7 @@ First of all we need to download a suitable localhost server application into ou
 - `AMPPS`
 - `EasyPHP`
 - `WPN-XM`
+- 
 Choose one of them, and then install it. Install the application into a specific dedicated folder and remember the path. Complete the installation process step by step. 
 
 ## Step 2: Launch the Localhost server Application
