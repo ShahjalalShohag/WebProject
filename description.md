@@ -6,3 +6,19 @@ Having an efficient point of sale (POS) system can go a long way in making sure 
 A point of sale system, or POS, is the place where your customer makes a payment for products or services at your store. Simply put, every time a customer makes a purchase, they’re completing a point of sale transaction.
 
 In fact, according to a survey we conducted among retailers last fall (methodology below), nearly a quarter of the business leaders we polled (23%) prioritized their point of sale infrastructure (upgrading an existing system or investing in a new POS system) more during COVID-19, while the remaining 43% maintained their pre-pandemic level of prioritization. In other words, even in the event of a global pandemic, two-thirds of retail executives were unwilling or unable to deprioritize POS equipment.
+So, we followed POS System in building Tally Note.
+
+## Hardware components of Tally Note: ##
+- Monitor/tablet
+- Barcode scanner
+- Credit card reader
+- Receipt printer
+- Cash drawer
+
+## Key Features of Tally Note: ##
+- Sales Reporting
+- Inventory Management
+- Customer Management
+- Employee Reporting and Management
+- Choosing the best retail POS system
+
